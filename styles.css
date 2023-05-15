@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.card{
+	padding : 50px;
+	background: lightgray;
+	width : 300px;
+	text-align : center;
+}
+button{
+	padding : 25px;
+	border-radius : 20px;
+	width: 150px;
+	background: pink;
+}
